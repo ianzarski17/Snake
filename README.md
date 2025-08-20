@@ -1,2 +1,2 @@
-# snake
-Retro snake game. Implemented OOP.
+# Snake
+Retro snake game. Implemented OOP. Each time the snake eats a dot, it gets longer.
