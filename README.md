@@ -1,2 +1,2 @@
 # snake
-Retro snake game
+Retro snake game. Implemented OOP.
